@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rotator>
+<panel>
+    <number>1</number>
+    <image>http://www.thepok.com/images/revivalradio/rrad5.jpg</image>
+    <url>http://generalyouthdivision.com/home</url>
+    <redirect>n</redirect>
+  </panel>  
+<panel>
+    <number>2</number>
+    <image>http://www.thepok.com/images/revivalradio/rrad1.jpg</image>
+    <url>http://fs19.formsite.com/ThePentecostalsofKaty/form055933740/index.html?1351972066146</url>
+    <redirect>n</redirect>
+  </panel>
+  <panel>
+    <number>3</number>
+    <image>http://www.thepok.com/images/revivalradio/rrad2.jpg</image>
+    <url>http://www.thepok.com</url>
+    <redirect>n</redirect>
+  </panel>
+  <panel>
+    <number>4</number>
+    <image>http://www.thepok.com/images/revivalradio/rrad3.jpg</image>
+    <url>https://www.facebook.com/#!/groups/62085079539/</url>
+    <redirect>n</redirect>
+  </panel>
+<panel>
+    <number>5</number>
+    <image>http://www.thepok.com/images/revivalradio/rrad4.jpg</image>
+    <url>http://www.apostolicu.com</url>
+    <redirect>n</redirect>
+  </panel>
+</rotator>
