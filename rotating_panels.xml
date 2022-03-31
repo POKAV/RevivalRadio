@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rotator>
+    
 <panel>
     <number>1</number>
     <image>https://github.com/POKAV/RevivalRadio/blob/main/rrad1.jpg?raw=true</image>
     <url>https://thepok.com</url>
     <redirect>n</redirect>
   </panel>
+    
+    <panel>
+    <number>2</number>
+    <image>https://github.com/POKAV/RevivalRadio/blob/main/rrad2.jpg?raw=true</image>
+    <url>https://store.thepok.com</url>
+    <redirect>n</redirect>
+  </panel>
+    
 </rotator>
