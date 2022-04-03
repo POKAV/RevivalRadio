@@ -14,5 +14,12 @@
     <url>https://store.thepok.com</url>
     <redirect>n</redirect>
   </panel>
+  
+  <panel>
+    <number>3</number>
+    <image>https://github.com/POKAV/RevivalRadio/blob/main/AP247.png?raw=true</image>
+    <url>https://store.thepok.com</url>
+    <redirect>n</redirect>
+  </panel>  
     
 </rotator>
