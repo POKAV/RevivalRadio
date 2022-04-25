@@ -4,14 +4,14 @@
 <panel>
     <number>1</number>
     <image>https://github.com/POKAV/RevivalRadio/blob/main/ApostolicPreaching.png?raw=true</image>
-    <url>https://store.thepok.com</url>
+    <url></url>
     <redirect>n</redirect>
   </panel>
     
     <panel>
     <number>2</number>
     <image>https://github.com/POKAV/RevivalRadio/blob/main/ApostolicMusicpromo.png?raw=true</image>
-    <url>https://store.thepok.com</url>
+    <url></url>
     <redirect>n</redirect>
   </panel>
   
@@ -25,7 +25,7 @@
   <panel>
     <number>4</number>
     <image>https://github.com/POKAV/RevivalRadio/blob/main/POKLIVE.PNG?raw=true</image>
-    <url>https://store.thepok.com</url>
+    <url></url>
     <redirect>n</redirect>
   </panel>    
   </rotator>
