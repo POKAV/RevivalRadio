@@ -3,35 +3,28 @@
     
 <panel>
     <number>1</number>
-    <image>https://github.com/POKAV/RevivalRadio/blob/main/ApostolicMusic247.png?raw=true</image>
+    <image>https://github.com/POKAV/RevivalRadio/blob/main/ApostolicPreaching.png?raw=true</image>
     <url>https://store.thepok.com</url>
     <redirect>n</redirect>
   </panel>
     
     <panel>
     <number>2</number>
-    <image>https://github.com/POKAV/RevivalRadio/blob/main/NoMusicLike.png?raw=true</image>
+    <image>https://github.com/POKAV/RevivalRadio/blob/main/ApostolicMusicpromo.png?raw=true</image>
     <url>https://store.thepok.com</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>3</number>
-    <image>https://github.com/POKAV/RevivalRadio/blob/main/RVPastorApostolicPreaching.png?raw=true</image>
+    <image>https://github.com/POKAV/RevivalRadio/blob/main/POKSTORE.PNG?raw=true</image>
     <url>https://store.thepok.com</url>
     <redirect>n</redirect>
     </panel>  
   
   <panel>
     <number>4</number>
-    <image>https://github.com/POKAV/RevivalRadio/blob/main/POKSercivepromoupdated.png?raw=true</image>
-    <url>https://store.thepok.com</url>
-    <redirect>n</redirect>
-  </panel>    
-
-  <panel>
-    <number>5</number>
-    <image>https://github.com/POKAV/RevivalRadio/blob/main/RVFriendsdaypromo.png?raw=true</image>
+    <image>https://github.com/POKAV/RevivalRadio/blob/main/POKLIVE.PNG?raw=true</image>
     <url>https://store.thepok.com</url>
     <redirect>n</redirect>
   </panel>    
